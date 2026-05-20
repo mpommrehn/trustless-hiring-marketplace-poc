@@ -13,11 +13,19 @@
   </p>
   <p align="center">
     <img src="https://img.shields.io/badge/Phase-0%20Foundation-blue?style=flat-square" alt="Current Phase" />
-    <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License" />
+    <img src="https://img.shields.io/badge/License-Proprietary-red?style=flat-square" alt="License" />
     <img src="https://img.shields.io/badge/ZK-SNARKs-purple?style=flat-square" alt="ZK Protocol" />
     <img src="https://img.shields.io/badge/Status-Research%20%26%20Design-orange?style=flat-square" alt="Status" />
   </p>
 </p>
+
+---
+
+## 📜 License
+
+**Proprietary - All Rights Reserved**
+
+This code is source-available for portfolio demonstration and educational viewing only. Commercial use, modification, and distribution are prohibited without explicit written permission. See [LICENSE](LICENSE) for details.
 
 ---
 
@@ -185,7 +193,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute to th
 
 ## 📄 License
 
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+This project is **proprietary and source-available** for portfolio demonstration and educational viewing only. See the [LICENSE](LICENSE) file for full terms.
 
 ---
 
