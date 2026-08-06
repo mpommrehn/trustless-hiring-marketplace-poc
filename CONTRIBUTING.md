@@ -1,8 +1,46 @@
 # Contributing to Trustless Hiring Marketplace
 
-Thank you for your interest in contributing! This project is a proof-of-concept exploring trustless hiring with zero-knowledge identity verification. Contributions of all kinds are welcome.
+Please read this first: **this project does not accept code contributions.**
 
-## 🏗️ Project Philosophy
+It is a proof-of-concept and portfolio piece exploring trustless hiring with
+zero-knowledge identity verification. The source is published for viewing and
+evaluation under a proprietary licence (see [LICENSE](LICENSE)), which does not
+grant permission to copy, fork, or modify the code. Pull requests therefore
+cannot be merged, and forking falls outside the terms of use.
+
+**Issues, questions, and feedback are genuinely welcome**, and are the useful
+way to engage with this project.
+
+## 📋 What is welcome
+
+### Reporting issues
+
+- Use GitHub Issues with clear titles and descriptions
+- Include reproduction steps for bugs
+- Label issues appropriately (`bug`, `enhancement`, `documentation`, `research`)
+
+### Suggesting enhancements
+
+- Open a GitHub Issue with the `enhancement` label
+- Describe the use case and expected behavior
+- Reference any relevant research or prior art
+
+### Reporting security problems
+
+- Report vulnerabilities **privately** via GitHub Security Advisories, not as
+  public issues
+- Never include secrets, API keys, or credentials in a report
+
+## 🚫 What cannot be accepted
+
+- **Pull requests.** They will be closed unmerged regardless of quality, because
+  the licence does not permit modification.
+- **Forks.** The licence does not grant permission to copy or redistribute.
+
+If you want to build on these ideas, please open an issue to ask about
+permission rather than forking.
+
+## 🏗️ Project philosophy
 
 This project values:
 
@@ -11,39 +49,14 @@ This project values:
 3. **Incremental Evolution** — Build in phases, validate assumptions, iterate
 4. **Portfolio Quality** — Code and documentation should be professional and well-crafted
 
-## 📋 How to Contribute
+## 📐 Project conventions
 
-### Reporting Issues
+Recorded for reference and for anyone evaluating this project, not as
+instructions for outside contributors.
 
-- Use GitHub Issues with clear titles and descriptions
-- Include reproduction steps for bugs
-- Label issues appropriately (`bug`, `enhancement`, `documentation`, `research`)
+### Commit messages
 
-### Suggesting Enhancements
-
-- Open a GitHub Issue with the `enhancement` label
-- Describe the use case and expected behavior
-- Reference any relevant research or prior art
-
-### Code Contributions
-
-1. **Fork** the repository
-2. **Create a feature branch** from `main`:
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-3. **Make your changes** following the code style guidelines below
-4. **Write or update tests** for your changes
-5. **Update documentation** if your changes affect the API or architecture
-6. **Commit** with clear, descriptive messages:
-   ```bash
-   git commit -m "feat: add weighted matching for culture fit criteria"
-   ```
-7. **Push** to your fork and open a **Pull Request**
-
-### Commit Message Convention
-
-We follow [Conventional Commits](https://www.conventionalcommits.org/):
+Following [Conventional Commits](https://www.conventionalcommits.org/):
 
 | Prefix | Usage |
 |--------|-------|
@@ -55,18 +68,17 @@ We follow [Conventional Commits](https://www.conventionalcommits.org/):
 | `chore:` | Build process or tooling changes |
 | `research:` | Research findings or protocol analysis |
 
-### Code Style
+### Code style
 
 - **JavaScript/TypeScript**: ESLint + Prettier (configured in project)
 - **SQL**: Uppercase keywords, lowercase identifiers, clear aliasing
 - **Documentation**: Markdown with consistent heading hierarchy
 - **Comments**: Explain _why_, not _what_ — the code should explain what
 
-## 🔒 Security
+### Security practices
 
 - **Never commit secrets, API keys, or credentials**
 - Use `.env` files for all configuration (see `.env.example`)
-- Report security vulnerabilities privately via GitHub Security Advisories
 - All ZK-related code should be reviewed for cryptographic correctness
 
 ## 📄 License
@@ -74,10 +86,8 @@ We follow [Conventional Commits](https://www.conventionalcommits.org/):
 This project is **proprietary and source-available**, not open source. See
 [LICENSE](LICENSE) for the full terms.
 
-By submitting a contribution, you assign copyright in that contribution to the
-copyright holder, and agree that it will be distributed under the terms in
-LICENSE rather than under any open-source license.
+Copyright (c) 2026 Mark Pommrehn. All rights reserved.
 
 ---
 
-_Questions? Open an issue or start a discussion. We're building this in the open._
+_Questions? Open an issue._

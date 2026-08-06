@@ -185,9 +185,11 @@ open docs/PROJECT-CHARTER.md
 
 ---
 
-## 🤝 Contributing
+## 🤝 Feedback
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute to this project.
+This project does not accept code contributions, as the licence does not permit
+copying or modification. Issues, questions, and feedback are welcome. See
+[CONTRIBUTING.md](CONTRIBUTING.md).
 
 ---
 

@@ -112,7 +112,7 @@ Demonstrate that applicant-recruiter-company interactions can be **transparent, 
 |------|-----|----------|
 | **Owner/Developer** | mpommrehn | Portfolio project, skill demonstration |
 | **Evaluators** | Potential employers, collaborators | Code quality, decision-making, communication |
-| **Open Source Community** | GitHub visitors | Reusable patterns, ZK research, marketplace architecture |
+| **Readers** | GitHub visitors | ZK research, marketplace architecture, documented decisions |
 
 ---
 
