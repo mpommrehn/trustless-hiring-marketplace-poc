@@ -71,7 +71,12 @@ We follow [Conventional Commits](https://www.conventionalcommits.org/):
 
 ## 📄 License
 
-By contributing, you agree that your contributions will be licensed under the MIT License.
+This project is **proprietary and source-available**, not open source. See
+[LICENSE](LICENSE) for the full terms.
+
+By submitting a contribution, you assign copyright in that contribution to the
+copyright holder, and agree that it will be distributed under the terms in
+LICENSE rather than under any open-source license.
 
 ---
 

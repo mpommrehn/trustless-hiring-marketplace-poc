@@ -13,7 +13,7 @@
 | **Name** | Trustless Hiring Marketplace POC |
 | **Type** | Proof of Concept / Portfolio Project |
 | **Repository** | [github.com/mpommrehn/trustless-hiring-marketplace-poc](https://github.com/mpommrehn/trustless-hiring-marketplace-poc) |
-| **License** | MIT |
+| **License** | Proprietary (source-available) |
 | **Context** | "Beat Claude" Portfolio Challenge |
 
 ---
